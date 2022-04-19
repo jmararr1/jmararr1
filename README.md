@@ -8,7 +8,7 @@
 
 ### A little about me...  <img width="400" height="250" src="https://user-images.githubusercontent.com/92651615/163993455-a455086e-16e1-4746-b7d8-2b7344463af1.gif" align=right>
 
-I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV <a>. I enjoy doing back-end development, playing CTF's 🚩 and working on Raspberry Pi and ESP8266 projects. 
+I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV<a>. I enjoy doing back-end development, playing CTF's 🚩 and working on Raspberry Pi and ESP8266 projects. 
 
 ### 👀 Check out my pentesting writeups <a href="https://https://jmararr1.github.io/">here<a> !
 <br/><br/> 
