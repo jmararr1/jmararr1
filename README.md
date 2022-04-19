@@ -29,7 +29,7 @@ I'm a tech enthusiast, currently studying telecommunication engineering in Valen
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=LordGuccif3r&show_icons=true&line_height=21&theme=react" alt="LordGuccif3r Github Stats" />
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=jmararr1&show_icons=true&line_height=21&theme=react" alt="jmararr1 Github Stats" />
 <img width="340" height="155" align="center" 
      src="https://github-readme-stats-jmararr1.vercel.app/api/top-langs/?username=jmararr1&langs_count=6&hide=handlebars,jupyter%20notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
