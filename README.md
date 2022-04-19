@@ -10,7 +10,7 @@
 
 I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV <a>. I enjoy doing back-end development, playing CTF's 🚩 and working on Raspberry Pi and ESP8266 projects. 
 
-👀 Check out my pentesting writeups <a href="https://https://jmararr1.github.io/">here<a> !
+### 👀 Check out my pentesting writeups <a href="https://https://jmararr1.github.io/">here<a> !
 <br/><br/>
 
 ### 👀 Check out my <a href="https://https://jmararr1.github.io/">pentesting writeups!.<a><br>  
