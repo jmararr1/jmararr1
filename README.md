@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-marco-arraez/)](https://www.linkedin.com/in/jorge-marco-arraez/)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMarcoArraez)](https://twitter.com/MarcoArraez)
 
-### A little about me...  ![GameOfThronesTyrionLannisterGIF](https://user-images.githubusercontent.com/92651615/163993455-a455086e-16e1-4746-b7d8-2b7344463af1.gif)
+### A little about me...  <img width="400" height="250" src="https://user-images.githubusercontent.com/92651615/163993455-a455086e-16e1-4746-b7d8-2b7344463af1.gif" align=right>
 
 I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV <a>. I enjoy doing back-end development, playing CTF's 🚩 and working on Raspberry Pi and ESP8266 projects.
   <br/><br/>
@@ -31,5 +31,5 @@ I'm a tech enthusiast, currently studying telecommunication engineering in Valen
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=LordGuccif3r&show_icons=true&line_height=21&theme=react" alt="LordGuccif3r Github Stats" />
 <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-lordguccif3r.vercel.app/api/top-langs/?username=LordGuccif3r&langs_count=6&hide=handlebars,jupyter%20notebook,css&theme=react&line_height=27&layout=compact" />
+     src="https://github-readme-stats-jmararr1.vercel.app/api/top-langs/?username=jmararr1&langs_count=6&hide=handlebars,jupyter%20notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
