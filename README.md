@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/jmararr1">Jorge <a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am <a href="https://github.com/jmararr1">Jorge <a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
 ### 📬 Find me at
@@ -11,9 +11,7 @@
 I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV <a>. I enjoy doing back-end development, playing CTF's 🚩 and working on Raspberry Pi and ESP8266 projects. 
 
 ### 👀 Check out my pentesting writeups <a href="https://https://jmararr1.github.io/">here<a> !
-<br/><br/>
-
-### 👀 Check out my <a href="https://https://jmararr1.github.io/">pentesting writeups!.<a><br>  
+<br/><br/> 
   
 ## ⚡️ My projects and goals:
 - 🏴‍☠️ Widen my penetration testing skills and earn the eJPT by the end of 2022. <br>
