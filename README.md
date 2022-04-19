@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/jmararr1">Jorge <a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+</h1>
 
-<!--
-**jmararr1/jmararr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jmararr1)](https://github.com/jmararr1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-marco-arraez/)](https://www.linkedin.com/in/jorge-marco-arraez/)
+[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMarcoArraez)](https://twitter.com/MarcoArraez)
 
-Here are some ideas to get you started:
+### A little about me...  ![GameOfThronesTyrionLannisterGIF](https://user-images.githubusercontent.com/92651615/163993455-a455086e-16e1-4746-b7d8-2b7344463af1.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV <a>. I enjoy doing back-end development, playing CTF's 🚩 and working on Raspberry Pi and ESP8266 projects.
+  <br/><br/>
+
+### 👀 Check out my <a href="https://https://jmararr1.github.io/">pentesting writeups!.<a><br>  
+  
+## ⚡️ My projects and goals:
+- 🏴‍☠️ Widen my penetration testing skills and earn the eJPT by the end of 2022. <br>
+- 💻 Create and share interesting tools. <br>
+- 💡 Develop automation projects using IoT. <br>
+
+### ⚙️ Some Tool and Tech I use
+
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"></code> 
+
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=LordGuccif3r&show_icons=true&line_height=21&theme=react" alt="LordGuccif3r Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-lordguccif3r.vercel.app/api/top-langs/?username=LordGuccif3r&langs_count=6&hide=handlebars,jupyter%20notebook,css&theme=react&line_height=27&layout=compact" />
+</p>
