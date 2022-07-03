@@ -17,7 +17,7 @@ I have a web where I upload my pentesting writeups 📝, <a href="https://jmarar
 - 💻 Create and share interesting tools. <br>
 
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Tools that I use:
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
