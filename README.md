@@ -4,7 +4,6 @@
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jmararr1)](https://github.com/jmararr1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-marco-arraez/)](https://www.linkedin.com/in/jorge-marco-arraez/)
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMarcoArraez)](https://twitter.com/MarcoArraez)
 ### A little about me...
 
 I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV<a>. I enjoy doing back-end development, playing CTF's 🚩 and working on Raspberry Pi and ESP8266 projects. 
@@ -13,9 +12,10 @@ I have a web where I upload my pentesting writeups 📝, <a href="https://jmarar
 <br/><br/> 
   
 ## ⚡️ My projects and goals:
+- 💡 Expand my backend developing knowledge. <br>
 - 🏴‍☠️ Widen my penetration testing skills and earn the eJPT by the end of 2022. <br>
 - 💻 Create and share interesting tools. <br>
-- 💡 Develop automation projects using IoT. <br>
+
 
 ### ⚙️ Some Tool and Tech I use
 
