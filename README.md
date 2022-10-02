@@ -6,25 +6,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-marco-arraez/)](https://www.linkedin.com/in/jorge-marco-arraez/)
 ### A little about me
 
-I'm a tech enthusiast, currently studying telecommunication engineering in Valencia and working with <a href="https://www.linkedin.com/company/blockchain-upv/mycompany/">Blockchain UPV<a>. I enjoy doing back-end development and playing CTF's 🚩. 
+I'm a tech enthusiast, currently studying telecommunication engineering in Valencia. I am currently expanding my front and backend development skills.
   
-## ⚡️ My projects and goals:
-- 💡 Expand my backend developing knowledge. <br>
-- 🏴‍☠️ Widen my penetration testing skills and earn the eJPT by the end of 2022. <br>
-- 💻 Create and share interesting tools. <br>
-
-I have a web where I upload my pentesting writeups 📝, <a href="https://jmararr1.github.io/">check it out<a> 👀!
-<br/><br/> 
-
 ### ⚙️ Tools that I use:
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"></code> 
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></code>
+
 
 ### 🚀 Quick Stats
 <p align="center">
